@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @chun-kit-leung
+- 👋 Hi, I’m @chun-kit-leung, John
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning building statistic models
 - 📫 My email is "chunkitleung.work@gmail.com"
 
 <!---
